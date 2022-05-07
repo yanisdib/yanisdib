@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning MongoDB, Blockchain and Amazon Web Services
 <!-- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me : contact[at]yanisdib.com
-- 🐤 twitter.com/yanisdib
+
+- 🐤 You can find me on twitter.com/yanisdib
 
 <!---
 yanisdib/yanisdib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
