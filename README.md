@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @yanisdib
+- 👋 Hi, I’m Yanis Dib
 - 👀 I’m interested in Engineering but more specifically in React environment and TypeScript
-- 🌱 I’m currently learning MongoDB, Blockchain and Amazon Web Services
-<!-- 💞️ I’m looking to collaborate on ... --->
+- 🌱 I’m currently learning Microservices, Apache Cassandra and Amazon Web Services
+<!-- 💞️ I’m looking to collaborate on Open Source projects --->
 - 📫 How to reach me : contact[at]yanisdib.com
 
-- 🐤 You can find me on twitter: @yanisdib
+- 🐤 twitter.com/yanisdib
 
 <!---
 yanisdib/yanisdib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
