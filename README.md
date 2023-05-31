@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yanis Dib
-- 👀 I’m interested in Engineering but more specifically in React environment and TypeScript
-- 🌱 I’m currently learning Microservices, Apache Cassandra and Amazon Web Services
+- 👀 Currently working as a Consultant at Capgemini
+- 🌱 I’m currently learning MongoDB and other technologies
 <!-- 💞️ I’m looking to collaborate on Open Source projects --->
 - 📫 How to reach me : contact[at]yanisdib.com
 
