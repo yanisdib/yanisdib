@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Yanis Dib
-- 👀 Currently working as a Consultant at Capgemini
-- 🌱 I’m currently learning MongoDB and other technologies
+- 👀 Currently working as a fullstack developer at Capgemini
 <!-- 💞️ I’m looking to collaborate on Open Source projects --->
 - 📫 How to reach me : contact[at]yanisdib.com
-
 - 🐤 twitter.com/yanisdib
 
 <!---
